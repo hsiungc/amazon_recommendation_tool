@@ -5,13 +5,13 @@
 
 The Amazon Seller Recommendation Tool gives sellers the ability to determine whether a certain product they want to sell is competitive within the Amazon marketplace.  Using parsed product data (input), the tool will provide the seller with a variety of metrics in the product category ranging from general statistics to an overall score recommending whether the product is a good sell to make.
 
-<br>The analyzed data are classified under three key classes:</br>
-<br>•	<b>Product Characteristics</b> – Name, price and discount, material, size and weight, seller, seller history, and seller ratings.</br>
-•	<b>Engagement</b> – Average rating, number of reviews, review keywords (both positive and negative), attributes to improve.
-<br>•	<b>Amazon Features</b> – Amazon's Choice, Amazon Brand, Prime, Fulfilled by Amazon (FBA), Best Sellers Ranking (BSR).</br>
+<p>The analyzed data are classified under three key classes:</p>
+<p>•	<b>Product Characteristics</b> – Name, price and discount, material, size and weight, seller, seller history, and seller ratings.
+<br>•	<b>Engagement</b> – Average rating, number of reviews, review keywords (both positive and negative), attributes to improve.
+<br>•	<b>Amazon Features</b> – Amazon's Choice, Amazon Brand, Prime, Fulfilled by Amazon (FBA), Best Sellers Ranking (BSR).</p>
 <p>Metrics are created based on these classes.  For this project, the tool takes the product metrics and calculates the score based on an arbitrary weighting system, which are captured in a section at the top of the report (output) along with a summary of other performance indicators.  Metrics may be reassigned based on relevance and strength, and are categorized into the following classes:</p>
-<br>•	<b>Overall Category Score</b> – The category price, size, BSR, seller history, reviews, and other product attributes are weighted and then scored.</br>
-•	<b>Summary Statistics</b> – The product category performance will expand based on price range/median, total reviews, negative and positive keywords, types of sellers, overall rating, and other statistics.
+<p>•	<b>Overall Category Score</b> – The category price, size, BSR, seller history, reviews, and other product attributes are weighted and then scored.
+<br>•	<b>Summary Statistics</b> – The product category performance will expand based on price range/median, total reviews, negative and positive keywords, types of sellers, overall rating, and other statistics.</p>
 
 <p>Although there are different levels of complexity, the score and statistical containers will manage the more basic level containers, which categorize and organize the incoming data.</p>
 
