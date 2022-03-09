@@ -19,6 +19,7 @@
 
 <h3>Program Organization</h3>
 
-<p>•	<b>src</b> - Where the source code is stored.<br>
+<p>•	<b>src</b> - Where the source code is stored. To run the program, 'amazon_tool.py' should be run in the command line.<br>
 •	<b>data</b> - JSON data files used in the program.<br>
-•	<b>txt</b> - Text files for comparing keywords.</p>
+•	<b>txt</b> - Text files for comparing keywords.<br>
+•	<b>images</b> - Screenshots of the program.</p>
