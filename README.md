@@ -23,3 +23,12 @@
 •	<b>data</b> - JSON data files used in the program.<br>
 •	<b>txt</b> - Text files for comparing keywords.<br>
 •	<b>images</b> - Screenshots of the program.</p>
+
+
+<h3>Skills</h3>
+
+<p>•	Python<br>
+•	JSON Traversal<br>
+•	Object Oriented Programming<br>
+•	Natural Language Processing (NLTK)<br>
+•	Command Line (Bash)<p>
